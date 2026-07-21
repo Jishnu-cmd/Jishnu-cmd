@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science Engineering student specializing in **Data Science**, passionate about building innovative software solutions, AI-powered applications, and full-stack web projects. I enjoy solving real-world problems through technology and continuously learning new tools and frameworks.
+I'm a Computer Science Engineering student specializing in **AI & ML**, passionate about building innovative software solutions, AI-powered applications, and full-stack web projects. I enjoy solving real-world problems through technology and continuously learning new tools and frameworks.
 
-- 🎓 B.Tech CSE (Data Science)
+- 🎓 B.Tech CSE (AI & ML)
 - 💻 Interested in AI, Machine Learning, Cloud Computing, and Full-Stack Development
 - 🌱 Currently learning AWS Cloud, System Design, and Advanced Java
 - 🚀 Building projects that solve practical problems
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **yenumulajishnu111@gmail.com**
 - ⚡ Fun Fact: I enjoy participating in hackathons and coding competitions.
 
 ---
