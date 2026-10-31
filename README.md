@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Working Dynamic Orbitron Typing SVG (No unicode emoji breaking URLs) -->
+<!-- Working Dynamic Orbitron Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=ED1C24&center=true&vCenter=true&width=760&lines=Lights+out+and+away+we+go!;Building+autonomous+multi-agent+AI+systems.;Stark-level+engineering.+Formula+1+speed.;Turning+high-octane+ideas+into+production+code." alt="Typing introduction" />
 
 <br/><br/>
@@ -51,13 +51,12 @@
       <p><sub>🏎️ Run the command in your terminal for an interactive CLI experience!</sub></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Iron Man Suit Up GIF -->
-      <img src="https://media.giphy.com/media/VYc9Xh6mN9a3u/giphy.gif" width="320" style="border-radius: 12px;" alt="Iron Man Suit Up" />
+      <img src="https://media.giphy.com/media/VYc9Xh6mN9a3u/giphy.gif" width="300" style="border-radius: 12px;" alt="Iron Man Suit Up" />
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=python,fastapi,react,aws,docker&theme=dark" alt="Core stack" />
       <br/>
       <p align="center">
-        <em>"Part of the journey is the end — but before that, we build."</em>
+        <em>"Sometimes you gotta run before you can walk." — Tony Stark</em>
       </p>
     </td>
   </tr>
@@ -65,11 +64,25 @@
 
 ---
 
-<!-- Middle GIF: Formula 1 High-Octane Speed -->
-<div align="center">
-  <img src="https://media.giphy.com/media/gDP9RTZEXVY5MgRuCu/giphy.gif" width="650" style="border-radius: 10px;" alt="Formula 1 Racing Telemetry" />
-  <p><sub>🏁 <em>Full throttle through Sector 3 — Speed, Precision, Telemetry.</em></sub></p>
-</div>
+<!-- Marvel Superhero Section: Tony Stark & J.A.R.V.I.S. Multi-Agent Systems -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>⚡ The Stark Initiative: Architecting Autonomous Intelligence</h3>
+      <p>
+        Like <strong>Tony Stark</strong> engineering <strong>J.A.R.V.I.S.</strong> in the Malibu workshop, I specialize in designing <strong>autonomous multi-agent AI ecosystems</strong>, neural workflow automations, and intelligent full-stack systems. Every system is built for rapid iteration, sub-millisecond API responsiveness, and scalable deployment.
+      </p>
+      <p>
+        <em>"The next breakthrough is built, not wished for."</em>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" style="border-radius: 12px;" alt="Tony Stark J.A.R.V.I.S. Hologram" />
+      <br/>
+      <sub>⚡ <em>Tony Stark refining the holographic HUD</em></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,19 +108,14 @@ const jishnu = {
   telemetry: {
     reactionTime: "Sub-millisecond API response",
     currentSector: "Sector 3: Scaling End-to-End Autonomous Systems",
-    mantra: "The next breakthrough is built, not wished for."
+    mantra: "I am inevitable. Keep building. Keep improving. Keep racing."
   }
 };
 ```
 
 ---
 
-<!-- Middle GIF: Tony Stark / JARVIS Hologram Interface -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="550" style="border-radius: 10px;" alt="Tony Stark JARVIS Hologram" />
-  <br/>
-  <h3>⚡ STARK TECH ARSENAL — TECH STACK 🧪</h3>
-</div>
+## 🧪 STARK TECH ARSENAL — TECH STACK
 
 <div align="center">
 
@@ -127,12 +135,22 @@ const jishnu = {
 
 ---
 
-<!-- Middle GIF: Avengers Assemble Epic Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiTnGeUsWOEwsGoG4/giphy.gif" width="620" style="border-radius: 10px;" alt="Avengers Assemble" />
-  <br/>
-  <h2>🧠 THE LAB — FEATURED PROJECTS</h2>
-</div>
+<!-- Marvel Superhero Section: Avengers Assemble & Multi-Agent Collaboration -->
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/xTiTnGeUsWOEwsGoG4/giphy.gif" width="280" style="border-radius: 12px;" alt="Avengers Assemble" />
+      <br/>
+      <sub>🛡️ <em>"Avengers Assemble!" — Synchronized Team Systems</em></sub>
+    </td>
+    <td width="65%" valign="top">
+      <h2>🧠 THE LAB — FEATURED PROJECTS</h2>
+      <p>
+        Just as the <strong>Avengers assemble</strong> distinct powers into a unified force, my featured engineering projects integrate specialized autonomous agents, computer vision, and machine learning pipelines into cohesive, production-ready platforms.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -140,17 +158,17 @@ const jishnu = {
       <h3>01. 🦾 AI-Powered Multi-Agent Incident Management System</h3>
       <p><code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>TypeScript</code> · <code>OWL Ontology</code></p>
       <ul>
-        <li>Engineered an ITIL-aligned intelligent platform featuring <strong>six autonomous cooperating agents</strong>.</li>
-        <li>Implemented <strong>OWL-ontology semantic matchmaking</strong> to route automated incident resolutions with zero manual intervention.</li>
-        <li>Built an asynchronous FastAPI service with JWT role-based access, SLA tracking, and auto-escalation, fronted by a sleek React cockpit.</li>
+        <li>Engineered an ITIL-aligned platform powered by <strong>six autonomous cooperating agents</strong> acting in harmony.</li>
+        <li>Implemented <strong>OWL-ontology semantic matchmaking</strong> to dynamically route incident resolutions without human bottleneck.</li>
+        <li>Built an asynchronous FastAPI service with JWT role-based access, SLA tracking, and auto-escalation fronted by a React cockpit.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>02. 🏎️ Gesture-Controlled Games & Simulators</h3>
       <p><code>Python</code> · <code>OpenCV</code> · <code>MediaPipe</code> · <code>Real-Time Vision</code></p>
       <ul>
-        <li>Designed a Tony Stark-inspired webcam vision controller for <em>Hill Climb Racing</em> and <em>Subway Surfers</em>.</li>
-        <li>Extracted high-frame-rate 3D hand landmarks via MediaPipe pipeline tuned with OpenCV.</li>
+        <li>Designed a <strong>Tony Stark-inspired vision controller</strong> for <em>Hill Climb Racing</em> and <em>Subway Surfers</em>.</li>
+        <li>Extracted high-frame-rate 3D hand landmarks via MediaPipe pipeline calibrated in OpenCV.</li>
         <li>Mapped dynamic spatial gestures to sub-millisecond virtual keyboard inputs with zero noticeable latency.</li>
       </ul>
     </td>
@@ -170,44 +188,65 @@ const jishnu = {
 
 ---
 
-<!-- Middle GIF: Formula 1 High Speed Cornering -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="580" style="border-radius: 10px;" alt="Formula 1 High Speed Cornering" />
-  <br/>
-  <h2>🏁 PIT LANE — FORMULA 1 & ENGINEERING</h2>
-</div>
-
-In motorsport, victory is won in the thousandths of a second through real-time data streaming, aerodynamics, and telemetry computation. Key engineering concepts I actively study & build:
-
-- 🏎️ **High-Frequency Telemetry:** Speed traces, throttle application, braking pressure points, and gear shifts.
-- 📉 **Driver Delta Analysis:** Micro-sector cornering speeds and apex acceleration comparisons.
-- ⏱️ **Strategy Simulation:** Dynamic tyre degradation curves, undercut/overcut pit windows, and safety car probability models.
-- 🔮 **Predictive Pace Modeling:** Machine learning regressions on historical Grand Prix weather, sector, and tyre compounds.
+<!-- Marvel Superhero & F1 Section: Precision Telemetry & Lap Engineering -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h2>🏁 PIT LANE — FORMULA 1 & ENGINEERING</h2>
+      <p>
+        In Formula 1, races are won in the thousandths of a second through real-time telemetry streaming, aerodynamics, and mathematical strategy. Combining high-speed racing analytics with engineering discipline:
+      </p>
+      <ul>
+        <li>🏎️ <strong>High-Frequency Telemetry:</strong> Speed traces, throttle mapping, braking pressure points, and gear shift optimization.</li>
+        <li>📉 <strong>Driver Delta Analysis:</strong> Micro-sector cornering speeds and apex acceleration comparisons.</li>
+        <li>⏱️ <strong>Strategy Simulation:</strong> Dynamic tyre degradation curves, undercut/overcut pit windows, and safety car probability models.</li>
+        <li>🔮 <strong>Predictive Pace Modeling:</strong> Machine learning regressions on historical Grand Prix weather, sector, and tyre compounds.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/gDP9RTZEXVY5MgRuCu/giphy.gif" width="280" style="border-radius: 12px;" alt="Formula 1 Racing Telemetry" />
+      <br/>
+      <sub>🏎️ <em>Scuderia Telemetry: Peak racing precision</em></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- Middle Section: Thor Lightning & S.H.I.E.L.D. Clearance -->
+<!-- Marvel Superhero Section: Captain America Leadership & Thor Cloud Power -->
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h2>🛡️ S.H.I.E.L.D. CLEARANCE & LEADERSHIP</h2>
-      <h3>🛸 Leadership</h3>
-      <p><strong>Technical Head — ACM Student Chapter, VVIT</strong></p>
+    <td width="50%" valign="top">
+      <h3>⭐ Captain America: Technical Leadership & Integrity</h3>
+      <p>
+        Embodying <strong>Captain America's</strong> standard of disciplined leadership, team accountability, and technical mentorship as <strong>Technical Head of the ACM Student Chapter (VVIT)</strong>.
+      </p>
       <ul>
-        <li>Directing technical hackathons, workshops, and student developer initiatives in Generative AI, Cloud Systems, and Algorithmic Problem Solving.</li>
+        <li>Spearheading student technical hackathons, workshops, and AI bootcamps.</li>
+        <li>Fostering collaborative problem solving and open-source contributions.</li>
       </ul>
-      <h3>📜 Verified Certifications</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/QgWLBfiGVn5HifJgzl/giphy.gif" width="260" style="border-radius: 10px;" alt="Captain America Shield" />
+        <br/>
+        <sub>⭐ <em>Leading from the front with precision & dedication</em></sub>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Thor: Raw Compute & Cloud Resilience</h3>
+      <p>
+        Channeling the strength of <strong>Thor's lightning</strong> through robust <strong>AWS Cloud Infrastructure</strong> and verified industry credentials:
+      </p>
       <ul>
-        <li>☁️ <strong>Develop GenAI Apps with Gemini and Streamlit</strong> — <em>Google Cloud</em></li>
+        <li>☁️ <strong>Develop GenAI Apps with Gemini & Streamlit</strong> — <em>Google Cloud</em></li>
         <li>🤖 <strong>Agentic AI Foundations Associate</strong> — <em>Oracle</em></li>
         <li>🗄️ <strong>SQL (Advanced) Certification</strong> — <em>HackerRank</em></li>
         <li>🐍 <strong>Python (Basic) Certification</strong> — <em>HackerRank</em></li>
       </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qWoubkSvQxN1C/giphy.gif" width="300" style="border-radius: 12px;" alt="Thor Lightning" />
-      <br/>
-      <sub>⚡ <em>Power of Thor & Precision of Stark Tech</em></sub>
+      <div align="center">
+        <img src="https://media.giphy.com/media/qWoubkSvQxN1C/giphy.gif" width="260" style="border-radius: 10px;" alt="Thor Lightning" />
+        <br/>
+        <sub>⚡ <em>Harnessing the power of high-availability cloud systems</em></sub>
+      </div>
     </td>
   </tr>
 </table>
@@ -226,38 +265,17 @@ In motorsport, victory is won in the thousandths of a second through real-time d
 
 ---
 
-## 📊 RACE TELEMETRY & GITHUB INTELLIGENCE
-
+<!-- Marvel Superhero Section: Iron Man Final Quote & Transmission -->
 <div align="center">
 
-<!-- Verified Live GitHub Stats & Streak Cards -->
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jishnu-cmd&show_icons=true&hide_border=true&bg_color=09090f&title_color=ed1c24&icon_color=f5a623&text_color=ffffff&rank_icon=github" alt="Jishnu's GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishnu-cmd&hide_border=true&background=09090f&ring=ed1c24&fire=f5a623&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" alt="Jishnu's GitHub Streak" />
-
-<br/><br/>
-
-<!-- Top Languages Card (Replaces the broken 402 Activity Graph) -->
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jishnu-cmd&layout=compact&hide_border=true&bg_color=09090f&title_color=ed1c24&text_color=ffffff" alt="Top Languages" />
-
-</div>
-
----
-
-<!-- Spider-Man Action Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3dqrTetHd0dKwrqj8w/giphy.gif" width="340" style="border-radius: 10px;" alt="Spider-Man" />
-</div>
-
----
-
-## 📡 TRANSMISSION: ESTABLISH CONTACT
-
-<div align="center">
-
-<!-- Iron Man Endgame Snap / Quote -->
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="460" style="border-radius: 12px;" alt="I Am Iron Man" />
 
-<h3>Got an ambitious project, an AI breakthrough, or want to talk racing?</h3>
+<h2>📡 TRANSMISSION: ESTABLISH CONTACT</h2>
+
+<p>
+  <strong>"I am Iron Man."</strong> — Building, improving, and pushing boundaries.<br/>
+  Whether you have an ambitious AI challenge, an open-source collaboration, or want to discuss F1 race telemetry, let's connect!
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jishnu--ananth--sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnu-ananth-sai/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jishnu--cmd-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jishnu-cmd)
