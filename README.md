@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Marvel × F1 Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090f,35:7b1020,70:ed1c24,100:f5a623&text=JISHNU%20ANANTH%20SAI&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=STARK%20TECH%20ARSENAL%20%C3%97%20F1%20TELEMETRY%20ENGINEER&descAlignY=60&descSize=14" width="100%" alt="Jishnu Ananth Sai Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,35:7b1020,70:ed1c24,100:f5a623&text=JISHNU%20ANANTH%20SAI&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=STARK%20TECH%20ARSENAL%20%C3%97%20F1%20TELEMETRY%20ENGINEER&descAlignY=60&descSize=14" width="100%" alt="Jishnu Ananth Sai Banner" />
 
 <br/>
 
-<!-- Dynamic Orbitron Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=ED1C24&center=true&vCenter=true&width=760&lines=Lights+out+and+away+we+go!+🏎️💨;Building+autonomous+multi-agent+AI+systems.+⚡;Stark-level+engineering.+Formula+1+speed.;Turning+high-octane+ideas+into+production+code." alt="Typing introduction" />
+<!-- Working Dynamic Orbitron Typing SVG (No unicode emoji breaking URLs) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=ED1C24&center=true&vCenter=true&width=760&lines=Lights+out+and+away+we+go!;Building+autonomous+multi-agent+AI+systems.;Stark-level+engineering.+Formula+1+speed.;Turning+high-octane+ideas+into+production+code." alt="Typing introduction" />
 
 <br/><br/>
 
 </div>
 
-<!-- Hero Section with Side-by-Side Layout Inspired by Top Dev Profiles -->
+<!-- Hero Section with Side-by-Side Layout -->
 <table border="0" width="100%">
   <tr>
-    <td width="62%" valign="top">
-      <h2>🏎️💨 Lights Out! I'm Jishnu Ananth Sai Yenumula ⚡</h2>
+    <td width="60%" valign="top">
+      <h2>🏎️ Lights Out! I'm Jishnu Ananth Sai Yenumula ⚡</h2>
       <p>
         <strong>Technical Head @ ACM VVIT</strong> 🛸 | <strong>AI & ML Engineer</strong> 🧠 | <strong>F1 Telemetry Enthusiast</strong> 🏁
       </p>
@@ -26,7 +26,7 @@
         <a href="https://komarev.com/ghpvc/?username=Jishnu-cmd&style=for-the-badge&color=ed1c24"><img src="https://komarev.com/ghpvc/?username=Jishnu-cmd&style=for-the-badge&color=ed1c24" alt="Profile Views" /></a>
         <a href="mailto:yenumulajishnu111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ed1c24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       </p>
-      <!-- Marvel / F1 Feature Status Pill -->
+      <!-- Marvel & F1 Feature Status Pills -->
       <p>
         <a href="#-the-lab--featured-projects">
           <img src="https://img.shields.io/badge/%E2%9A%A1_STARK_TECH_LAB-Level_10_Clearance-f5a623?style=for-the-badge&labelColor=0d1117" alt="Stark Tech Lab" />
@@ -38,7 +38,7 @@
       <!-- Paddock / Meeting Callout -->
       <h3>📫 Pit Stop & Paddock Chat</h3>
       <p>
-        Have an exciting project, an AI/ML collaboration, or want to debate corner delta telemetry & tyre strategy? Let's connect!
+        Have an exciting project, an AI/ML collaboration, or want to debate corner delta telemetry & race strategy? Let's connect!
       </p>
       <p>
         <a href="mailto:yenumulajishnu111@gmail.com?subject=Pit%20Stop%20Discussion%20with%20Jishnu">
@@ -48,18 +48,16 @@
       <!-- Terminal CLI Card -->
       <p><strong>👇 Initialize telemetry & connect directly from your terminal:</strong></p>
       <pre><code>npx jishnu</code></pre>
-      <p><sub>🏎️ Run the command above in your terminal for an interactive CLI portfolio experience!</sub></p>
+      <p><sub>🏎️ Run the command in your terminal for an interactive CLI experience!</sub></p>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <!-- Animated F1 & Marvel Arc Reactor Aesthetic Card -->
-      <a href="https://github.com/Jishnu-cmd">
-        <img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=0:ed1c24,50:7b1020,100:09090f&text=%E2%9A%A1%20JARVIS%20AI%20%C3%97%20F1%20%F0%9F%8F%8E%EF%B8%8F&fontColor=ffffff&fontSize=22&fontAlignY=50" width="100%" alt="Jarvis AI F1 badge" />
-      </a>
+    <td width="40%" align="center" valign="middle">
+      <!-- Iron Man Suit Up GIF -->
+      <img src="https://media.giphy.com/media/VYc9Xh6mN9a3u/giphy.gif" width="320" style="border-radius: 12px;" alt="Iron Man Suit Up" />
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=python,fastapi,react,aws,docker&theme=dark" alt="Core stack" />
-      <br/><br/>
+      <br/>
       <p align="center">
-        <em>"The next breakthrough is built, not wished for."</em>
+        <em>"Part of the journey is the end — but before that, we build."</em>
       </p>
     </td>
   </tr>
@@ -67,7 +65,15 @@
 
 ---
 
-### 🤖 Pit Wall Telemetry & Diagnostics (A little more about me...)
+<!-- Middle GIF: Formula 1 High-Octane Speed -->
+<div align="center">
+  <img src="https://media.giphy.com/media/gDP9RTZEXVY5MgRuCu/giphy.gif" width="650" style="border-radius: 10px;" alt="Formula 1 Racing Telemetry" />
+  <p><sub>🏁 <em>Full throttle through Sector 3 — Speed, Precision, Telemetry.</em></sub></p>
+</div>
+
+---
+
+### 🤖 Pit Wall Telemetry & Diagnostics (About Me)
 
 ```typescript
 const jishnu = {
@@ -89,14 +95,19 @@ const jishnu = {
   telemetry: {
     reactionTime: "Sub-millisecond API response",
     currentSector: "Sector 3: Scaling End-to-End Autonomous Systems",
-    mantra: "I am inevitable. Keep building. Keep improving. Keep racing."
+    mantra: "The next breakthrough is built, not wished for."
   }
 };
 ```
 
 ---
 
-## 🧪 STARK TECH ARSENAL — TECH STACK
+<!-- Middle GIF: Tony Stark / JARVIS Hologram Interface -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="550" style="border-radius: 10px;" alt="Tony Stark JARVIS Hologram" />
+  <br/>
+  <h3>⚡ STARK TECH ARSENAL — TECH STACK 🧪</h3>
+</div>
 
 <div align="center">
 
@@ -116,7 +127,12 @@ const jishnu = {
 
 ---
 
-## 🧠 THE LAB — FEATURED PROJECTS
+<!-- Middle GIF: Avengers Assemble Epic Banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiTnGeUsWOEwsGoG4/giphy.gif" width="620" style="border-radius: 10px;" alt="Avengers Assemble" />
+  <br/>
+  <h2>🧠 THE LAB — FEATURED PROJECTS</h2>
+</div>
 
 <table>
   <tr>
@@ -154,13 +170,12 @@ const jishnu = {
 
 ---
 
-## 🏁 PIT LANE — FORMULA 1 & ENGINEERING
-
+<!-- Middle GIF: Formula 1 High Speed Cornering -->
 <div align="center">
-  <img src="https://img.shields.io/badge/FORMULA%201-RACE%20DATA%20%7C%20TELEMETRY%20%7C%20STRATEGY-e10600?style=for-the-badge&logo=f1&logoColor=white" alt="Formula 1 Banner" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="580" style="border-radius: 10px;" alt="Formula 1 High Speed Cornering" />
+  <br/>
+  <h2>🏁 PIT LANE — FORMULA 1 & ENGINEERING</h2>
 </div>
-
-<br/>
 
 In motorsport, victory is won in the thousandths of a second through real-time data streaming, aerodynamics, and telemetry computation. Key engineering concepts I actively study & build:
 
@@ -168,6 +183,34 @@ In motorsport, victory is won in the thousandths of a second through real-time d
 - 📉 **Driver Delta Analysis:** Micro-sector cornering speeds and apex acceleration comparisons.
 - ⏱️ **Strategy Simulation:** Dynamic tyre degradation curves, undercut/overcut pit windows, and safety car probability models.
 - 🔮 **Predictive Pace Modeling:** Machine learning regressions on historical Grand Prix weather, sector, and tyre compounds.
+
+---
+
+<!-- Middle Section: Thor Lightning & S.H.I.E.L.D. Clearance -->
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🛡️ S.H.I.E.L.D. CLEARANCE & LEADERSHIP</h2>
+      <h3>🛸 Leadership</h3>
+      <p><strong>Technical Head — ACM Student Chapter, VVIT</strong></p>
+      <ul>
+        <li>Directing technical hackathons, workshops, and student developer initiatives in Generative AI, Cloud Systems, and Algorithmic Problem Solving.</li>
+      </ul>
+      <h3>📜 Verified Certifications</h3>
+      <ul>
+        <li>☁️ <strong>Develop GenAI Apps with Gemini and Streamlit</strong> — <em>Google Cloud</em></li>
+        <li>🤖 <strong>Agentic AI Foundations Associate</strong> — <em>Oracle</em></li>
+        <li>🗄️ <strong>SQL (Advanced) Certification</strong> — <em>HackerRank</em></li>
+        <li>🐍 <strong>Python (Basic) Certification</strong> — <em>HackerRank</em></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qWoubkSvQxN1C/giphy.gif" width="300" style="border-radius: 12px;" alt="Thor Lightning" />
+      <br/>
+      <sub>⚡ <em>Power of Thor & Precision of Stark Tech</em></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -183,33 +226,26 @@ In motorsport, victory is won in the thousandths of a second through real-time d
 
 ---
 
-## 🛡️ S.H.I.E.L.D. CREDENTIALS & LEADERSHIP
-
-### 🛸 Leadership
-- **Technical Head — ACM Student Chapter, VVIT**
-  - Directing technical hackathons, workshops, and student developer initiatives in Generative AI, Cloud Systems, and Algorithmic Problem Solving.
-
-### 📜 Verified Certifications
-- ☁️ **Develop GenAI Apps with Gemini and Streamlit** — *Google Cloud*
-- 🤖 **Agentic AI Foundations Associate** — *Oracle*
-- 🗄️ **SQL (Advanced) Certification** — *HackerRank*
-- 🐍 **Python (Basic) Certification** — *HackerRank*
-
----
-
 ## 📊 RACE TELEMETRY & GITHUB INTELLIGENCE
 
 <div align="center">
 
-<!-- GitHub Stats & Streak with Marvel Red & Gold Palette -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jishnu-cmd&show_icons=true&hide_border=true&bg_color=09090f&title_color=ed1c24&icon_color=f5a623&text_color=ffffff&rank_icon=github" alt="Jishnu's GitHub Stats" />
+<!-- Verified Live GitHub Stats & Streak Cards -->
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jishnu-cmd&show_icons=true&hide_border=true&bg_color=09090f&title_color=ed1c24&icon_color=f5a623&text_color=ffffff&rank_icon=github" alt="Jishnu's GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishnu-cmd&hide_border=true&background=09090f&ring=ed1c24&fire=f5a623&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" alt="Jishnu's GitHub Streak" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishnu-cmd&bg_color=09090f&color=ffffff&line=ed1c24&point=f5a623&area=true&hide_border=true" width="95%" alt="GitHub Contribution Telemetry Graph" />
+<!-- Top Languages Card (Replaces the broken 402 Activity Graph) -->
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jishnu-cmd&layout=compact&hide_border=true&bg_color=09090f&title_color=ed1c24&text_color=ffffff" alt="Top Languages" />
 
+</div>
+
+---
+
+<!-- Spider-Man Action Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3dqrTetHd0dKwrqj8w/giphy.gif" width="340" style="border-radius: 10px;" alt="Spider-Man" />
 </div>
 
 ---
@@ -217,6 +253,9 @@ In motorsport, victory is won in the thousandths of a second through real-time d
 ## 📡 TRANSMISSION: ESTABLISH CONTACT
 
 <div align="center">
+
+<!-- Iron Man Endgame Snap / Quote -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="460" style="border-radius: 12px;" alt="I Am Iron Man" />
 
 <h3>Got an ambitious project, an AI breakthrough, or want to talk racing?</h3>
 
