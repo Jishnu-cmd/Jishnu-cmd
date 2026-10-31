@@ -20,12 +20,7 @@
       <p>
         <strong>Technical Head @ ACM VVIT</strong> 🛸 | <strong>AI & ML Engineer</strong> 🧠 | <strong>F1 Telemetry Enthusiast</strong> 🏁
       </p>
-      <p>
-        <a href="https://github.com/Jishnu-cmd"><img src="https://img.shields.io/github/followers/Jishnu-cmd?style=for-the-badge&logo=github&color=7b1020" alt="GitHub followers" /></a>
-        <a href="https://www.linkedin.com/in/jishnu-ananth-sai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://komarev.com/ghpvc/?username=Jishnu-cmd&style=for-the-badge&color=ed1c24"><img src="https://komarev.com/ghpvc/?username=Jishnu-cmd&style=for-the-badge&color=ed1c24" alt="Profile Views" /></a>
-        <a href="mailto:yenumulajishnu111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ed1c24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-      </p>
+
       <!-- Marvel & F1 Feature Status Pills -->
       <p>
         <a href="#-the-lab--featured-projects">
